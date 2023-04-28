@@ -1,17 +1,17 @@
 # petxus
 
-Petxus é um projeto feito em flutter + firebase para facilitar o cadastro de pets em situações vulneraveis. Ele é capaz de atinigir objetivos propostos no desafio del hackathon 10.0.
+"Petxus" é um projeto desenvolvido em Flutter + Firebase para facilitar o cadastro de animais de estimação em situações vulneráveis. Ele é capaz de atingir os objetivos propostos no desafio do hackathon 10.0.
 
-1) Um tutor cadastrar seus pets e reportar eles como perdidos
-2) As secretarias da prefeitura podem cadastrar pets na rua alem de ter um historico de ações de cada pet
-3) Um mapa onde detalha os pets cadastrados e os perdidos
-4) uma interface que incentiva a adoção de pets
-5) Interface para incentivar a locais a adherirse ao movimento petFriendly
-6) Interface para concientizar a populacão do municipio
-7) Interface para olhar a detalhe as caracteristicas dos pets
-8) Interface para olhar as estadisticas dos pets no municipio
-9) Cadastro de pets vulneraveisl
-10) Denuncias de maltrato animal
+Um tutor pode cadastrar seus animais de estimação e reportá-los como perdidos.
+As secretarias da prefeitura podem cadastrar animais de estimação encontrados na rua, além de ter um histórico das ações realizadas com cada animal.
+Um mapa que mostra os animais de estimação cadastrados e os que foram perdidos.
+Uma interface que incentiva a adoção de animais de estimação.
+Interface para incentivar locais a aderir ao movimento pet friendly.
+Interface para conscientizar a população do município.
+Interface para visualizar detalhes das características dos animais de estimação.
+Interface para visualizar estatísticas dos animais de estimação no município.
+Cadastro de animais de estimação vulneráveis.
+Denúncias de maus-tratos aos animais.
 
 ## Como instalar
 
