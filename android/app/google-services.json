@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "612913751535",
+    "project_id": "petstrackers",
+    "storage_bucket": "petstrackers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612913751535:android:f844bd5948529747f2c21a",
+        "android_client_info": {
+          "package_name": "com.example.pets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612913751535-8hm1e4dud1486fm0kiu36km37ofp5ri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC31OalsZc4AhePIcwU21o6DdhIdeHK9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612913751535-8hm1e4dud1486fm0kiu36km37ofp5ri8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612913751535-ckkn14ekmcbn5mi2c471hvsmbpqb344a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
