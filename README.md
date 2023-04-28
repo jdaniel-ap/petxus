@@ -1,25 +1,27 @@
-# petxus
+# Petxus
 
-"Petxus" é um projeto desenvolvido em Flutter + Firebase para facilitar o cadastro de animais de estimação em situações vulneráveis. Ele é capaz de atingir os objetivos propostos no desafio do hackathon 10.0.
+Petxus é um projeto desenvolvido em Flutter + Firebase para facilitar o cadastro de animais de estimação em situações vulneráveis. Ele é capaz de atingir os objetivos propostos no desafio do hackathon 10.0.
 
-Um tutor pode cadastrar seus animais de estimação e reportá-los como perdidos.
-As secretarias da prefeitura podem cadastrar animais de estimação encontrados na rua, além de ter um histórico das ações realizadas com cada animal.
-Um mapa que mostra os animais de estimação cadastrados e os que foram perdidos.
-Uma interface que incentiva a adoção de animais de estimação.
-Interface para incentivar locais a aderir ao movimento pet friendly.
-Interface para conscientizar a população do município.
-Interface para visualizar detalhes das características dos animais de estimação.
-Interface para visualizar estatísticas dos animais de estimação no município.
-Cadastro de animais de estimação vulneráveis.
-Denúncias de maus-tratos aos animais.
+## Funcionalidades
+
+- Cadastro de animais de estimação por tutores e reporte de animais perdidos
+- Cadastro de animais de estimação encontrados pelas secretarias da prefeitura, com histórico das ações realizadas com cada animal
+- Mapa que mostra os animais de estimação cadastrados e os perdidos
+- Interface que incentiva a adoção de animais de estimação
+- Interface que incentiva estabelecimentos a aderir ao movimento pet friendly
+- Interface que conscientiza a população do município sobre a importância do cuidado com os animais de estimação
+- Interface que mostra detalhes das características dos animais de estimação
+- Interface que mostra estatísticas dos animais de estimação no município
+- Cadastro de animais de estimação em situações vulneráveis
+- Denúncias de maus-tratos aos animais
 
 ## Como instalar
 
-1) fazer git clone do projeto em seu dispositivo
-2) Rodar o comando `flutter pub get` na terminal e na pasta do projeto
-3) Usar emulador de preferencia ios/android
+1. Clone o repositório para o seu dispositivo
+2. Na pasta do projeto, execute o comando `flutter pub get`
+3. Execute o projeto em um emulador de sua preferência (iOS ou Android)
 
-## Preview
+## Prévia do aplicativo
 
 ### Tela do usuario
 <img width="337" alt="image" src="https://user-images.githubusercontent.com/74429277/235230039-885181c9-d36a-462e-a516-d9f7d5597632.png">
