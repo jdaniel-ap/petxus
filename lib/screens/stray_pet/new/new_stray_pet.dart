@@ -494,9 +494,7 @@ class _NewStrayPetState extends State<NewStrayPet> {
                                   color: Colors.grey.withOpacity(0.2),
                                 ),
                                 child: MaterialButton(
-                                  onPressed: () => setState(() {
-                                    acceptTerms = false;
-                                  }),
+                                  onPressed: () => Navigator.pop(context),
                                   child: const Text(
                                     'Voltar',
                                     style: TextStyle(

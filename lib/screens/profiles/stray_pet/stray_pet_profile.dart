@@ -98,7 +98,7 @@ class _StrayPetProfileState extends State<StrayPetProfile> {
                         crossAxisAlignment: CrossAxisAlignment.end,
                         children: [
                           Text(
-                            'Saludavel',
+                            'Saudável',
                             style: TextStyle(
                                 fontSize: 26,
                                 color: Colors.green.shade400,

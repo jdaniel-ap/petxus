@@ -76,11 +76,15 @@ class MapScreen extends StatelessWidget {
                               width: 30,
                             ),
                             GestureDetector(
-                              onTap: () => Navigator.push(
-                                      context,
-                                      MaterialPageRoute(
-                                          builder: (_) => const NewStrayPet()))
-                                  .then((value) => Navigator.pop(context)),
+                              onTap: () => {
+                                Navigator.pop(context),
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (_) => const NewStrayPet(),
+                                  ),
+                                )
+                              },
                               child: Container(
                                 width: 140,
                                 height: 140,

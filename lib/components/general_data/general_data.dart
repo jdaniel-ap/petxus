@@ -116,7 +116,7 @@ class GeneralData extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: const [
                         Text(
-                          'Denuncias de Maltrato',
+                          'Denuncias de maus tratos',
                           style: TextStyle(
                             fontSize: 24,
                             fontWeight: FontWeight.w600,

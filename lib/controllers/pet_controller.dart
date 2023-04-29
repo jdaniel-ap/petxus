@@ -42,7 +42,10 @@ class PetController extends GetxController {
   addMarkers(pet) async {
     GeoPoint point = pet.get('position.geopoint');
     BitmapDescriptor markerIcon = await BitmapDescriptor.fromAssetImage(
-        ImageConfiguration(), 'assets/images/marker_90.png');
+        ImageConfiguration(),
+        pet.get('name') == 'Fofinho'
+            ? 'assets/images/red_marker.png'
+            : 'assets/images/marker_90.png');
     markers.add(
       Marker(
         markerId: MarkerId(pet.id),

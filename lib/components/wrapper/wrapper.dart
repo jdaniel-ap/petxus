@@ -80,7 +80,7 @@ class _WrapperState extends State<Wrapper> {
                   ))
             },
             child: const ListTile(
-              title: Text('Buscar'),
+              title: Text('Pesquisar'),
               leading: Icon(PhosphorIcons.magnifying_glass),
             ),
           ),
